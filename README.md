@@ -12,7 +12,8 @@ Eklenen kitaplar kalıcı olarak `data/books.tsv` dosyasında saklanır, böylec
 - **Veri kalıcılığı**: Kitaplar `data/books.tsv` dosyasına kaydedilir.
 - **Menü tabanlı kullanım**: Her işlem sonrası ana menüye dönüş yapılır.  
 
--   Kullanılan Teknolojiler Java (OOP prensipleri, sınıf ve nesne yapısı)
+ Kullanılan Teknolojiler
+-   Java (OOP prensipleri, sınıf ve nesne yapısı)
 -   ArrayList (koleksiyon yönetimi)
 -   Scanner (konsol girdi/çıktı işlemleri)
 -   java.nio.file ve java.io (dosya okuma/yazma)
